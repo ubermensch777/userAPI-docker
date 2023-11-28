@@ -1,5 +1,4 @@
 # Run
-Download project
 In project package
 ```
 docker build -t user_api_backend_iso .
